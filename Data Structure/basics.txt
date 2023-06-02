@@ -1,0 +1,8 @@
+/*  1 - Basics : you need to understand : Standard objects, Expressions and operators,
+        Statements and declarations, Functions...
+
+    familiarize your self with the basics of javascript programming :
+    Im not going to interoduce this part, if you are interseted, the
+    best place to learn this in MDN :
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript.
+*/
